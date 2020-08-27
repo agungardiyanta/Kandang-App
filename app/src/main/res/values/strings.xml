@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Kandang</string>
+    <string name="temp">Suhu</string>
+    <string name="pic">ilustration</string>
+    <string name="panggil_petugas">Panggil Petugas</string>
+    <string name="default_num">0</string>
+    <string name="title_tekanan">Tekanan</string>
+</resources>

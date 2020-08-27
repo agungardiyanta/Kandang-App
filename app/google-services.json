@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "972353715846",
+    "firebase_url": "https://wemosbmp085.firebaseio.com",
+    "project_id": "wemosbmp085",
+    "storage_bucket": "wemosbmp085.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972353715846:android:3ca08d03ba4296a69f5b07",
+        "android_client_info": {
+          "package_name": "com.atech.incage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972353715846-sj95cinmcj6g3m3qd1c8rvgdckqhu39q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyTd1xyXMfrQp-KW-nUtByfGgvrvHl-9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "972353715846-sj95cinmcj6g3m3qd1c8rvgdckqhu39q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972353715846:android:df2157121bb3a5709f5b07",
+        "android_client_info": {
+          "package_name": "com.atech.kandang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972353715846-sj95cinmcj6g3m3qd1c8rvgdckqhu39q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyTd1xyXMfrQp-KW-nUtByfGgvrvHl-9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "972353715846-sj95cinmcj6g3m3qd1c8rvgdckqhu39q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
