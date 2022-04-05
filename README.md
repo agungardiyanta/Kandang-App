@@ -3,4 +3,4 @@ An simple application to get data from firebase, that's sending from Wemos I res
 change, and we can call the authority person with push the button "panggil petugas".
 
 <img src="kandangapp.jpeg" width="200">
-![Screenshot](kandangapp.jpeg)
+
